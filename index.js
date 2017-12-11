@@ -14,5 +14,8 @@ function ternaryCheckCity(city){
     return "Ok, sounds good.";
   }
   return "No go.";
+}
 
+function switchOnCharmFromTip(){
+  
 }
